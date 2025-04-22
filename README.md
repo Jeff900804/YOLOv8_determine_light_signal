@@ -1,3 +1,9 @@
 # YOLOv8_determine_light_signal  
 
-This is a new model trained based on the yolov8 model. This model contains a new label for the indicator light: "light", and whether each light is on: "red_on", "green_on", "yellow_on", "blue_on".
+# 🔍 YOLOv8 Custom Training - Industrial Indicator Detection
+
+This repository contains the workflow and code for training a YOLOv8 model to detect and classify industrial indicator lights. The custom dataset includes different states of the same object (e.g., red/green/yellow/blue lights on a control panel).
+
+## 📁 Project Structure
+
+
