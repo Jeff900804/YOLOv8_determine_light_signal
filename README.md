@@ -4,17 +4,18 @@ This repository contains the workflow and code for training a YOLOv8 model to de
 
 ## 📁 Project Structure
 light-dataset/  
-├── images/
-│   ├── train/
-│   │   ├── image1.jpg
-│   │   └── image2.jpg
-│   └── val/
-│       └── image3.jpg
-├── labels/
-│   ├── train/
-│   │   ├── image1.txt
-│   │   └── image2.txt
-│   └── val/
-│       └── image3.txt
-└── data.yaml
+├── images/  
+│   ├── train/  
+│   │   ├── image1.jpg  
+│   │   └── image2.jpg  
+│   └── val/  
+│       └── image3.jpg  
+├── labels/  
+│   ├── train/  
+│   │   ├── image1.txt  
+│   │   └── image2.txt  
+│   └── val/  
+│       └── image3.txt  
+└── data.yaml  
+
 
