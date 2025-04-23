@@ -1,0 +1,5 @@
+path: /data/train/light-dataset
+train: images/train
+val: images/train
+nc: 5
+names: ['light','red_on', 'yellow_on', 'green_on', 'blue_on']
